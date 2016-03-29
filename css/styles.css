@@ -4,6 +4,22 @@ body {
   padding-bottom: 20px;
 }
 
-#headline {
+.headline {
 	color: #72CDF4;
+}
+
+.bluelink a:link {
+     color: #72CDF4;
+}
+
+.bluelink a:visited {
+     color: #72CDF4;
+}
+
+.left-picture {
+	float: left;
+}
+
+.right-picture {
+	float: right;
 }
